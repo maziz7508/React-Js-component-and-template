@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+https://maziz7508.github.io/React-Js-component-and-template/ the templaate and setup of react from where I learnt the basics of react and related installations. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
